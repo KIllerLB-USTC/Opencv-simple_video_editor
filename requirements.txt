@@ -1,0 +1,53 @@
+asttokens==2.2.1
+backcall==0.2.0
+certifi==2023.5.7
+comm==0.1.3
+contourpy @ file:///home/conda/feedstock_root/build_artifacts/contourpy_1673633650729/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+debugpy==1.6.7
+decorator==5.1.1
+executing==1.2.0
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1683740465037/work
+importlib-metadata==6.6.0
+importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1676919000169/work
+ipython==8.12.2
+jedi==0.18.2
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1666805766046/work
+lxml==4.9.2
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1678135552557/work
+matplotlib-inline==0.1.6
+mpi4py==3.1.4
+munkres==1.1.4
+nest-asyncio==1.5.6
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1682210232610/work
+opencv-python==4.7.0
+opencv-rolling-ball==1.0.1
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1680694290932/work
+platformdirs==3.5.1
+ply==3.11
+prompt-toolkit==3.0.38
+psutil==5.9.5
+ptyprocess==0.7.0
+pure-eval==0.2.2
+Pygments==2.15.1
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-pptx==0.6.21
+pyzmq==25.0.2
+sip @ file:///home/conda/feedstock_root/build_artifacts/sip_1681995033338/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+stack-data==0.6.2
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1684150223545/work
+tqdm==4.65.0
+traitlets==5.9.0
+typing_extensions==4.6.0
+unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1667239955025/work
+wcwidth==0.2.6
+XlsxWriter==3.1.1
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work

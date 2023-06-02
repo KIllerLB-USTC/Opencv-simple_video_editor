@@ -17,7 +17,7 @@ if you want to save the video after adding the effects simply click **'save'** b
 
 ## Config:
 ~~~bash 
-git clone ''''
+git clone https://github.com/KIllerLB-USTC/Opencv-simple_video_editor.git
 ~~~
 ~~~python
 # go into the dirct
@@ -29,7 +29,9 @@ by simple type in
 python simple_video_editor.py
 ~~~
 Demo:
+
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/ESAOZNu6yhg"
   frameborder="0"></iframe>
+
   
